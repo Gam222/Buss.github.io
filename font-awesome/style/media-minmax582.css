@@ -1,0 +1,387 @@
+@media screen and (min-width: 1824px) and (max-width: 2080px) {
+	/* 3 Article */
+    article.th-le a.bot {
+	    display: none;
+    }
+}
+@media screen and (min-width: 1224px) and (max-width: 1823px) {
+	/* Plx Rolling */
+	.kaeding {
+		/*background: #fff;*/
+		text-align: center;
+		padding-top: 5em;
+	}
+	/* UL Text lo-go */
+    .spame-lo-go h3 {
+    	padding-top: 4px;
+    	/*background: #fff;*/
+    }
+    /* 3 Article */
+    article.th-le a.bot {
+	    display: none;
+    }
+}
+@media screen and (min-width: 1024px) and (max-width: 1223px) {
+	/* Plx Rolling */
+	.kaeding {
+		/*background: #fff;*/
+		padding-top: 5em;
+	}
+    /* UL Text lo-go */
+    .spame-lo-go h3 {
+    	padding-top: 4px;
+    	/*background: #fff;*/
+    }	
+    /* ROLLSCROLL */
+    article.payu a {
+		margin-left: 3em;
+    }
+    /* 3 Article */
+    article.th-le a.bot {
+	    display: none;
+    }
+    /* ROLLSCROL 2 */
+    article.payuh a {
+        margin-left: 3em;
+    }
+    /* ROCKET */
+    article.centul p {
+    	margin-top: 0;
+    }
+    /* Double Side */
+    aside p, article.sided p {
+    	font-size: 140%;
+    }
+}
+@media screen and (min-width: 774px) and (max-width: 1023px) {
+	/* Plx Rolling */
+	.kaeding {
+		/*background: #fff;*/
+		padding-top: 5em;
+	}
+	/* UL Text lo-go */
+    .spame-lo-go h3 {
+    	padding-top: 4px;
+    	/*background: #fff;*/
+    }
+    /* ROLLSCROL */
+    article.tete h1 {
+    	line-height: 1em;
+        padding-top: 1.8em;
+
+    }
+    article.payu a {
+    	padding: 0.8em;
+		font-size: 90%;
+		margin: 7.3em 0 5.45em 5em;
+    }
+    /* 3 Article */
+    article.th-le a.bot {
+	    display: none;
+    }
+    /* ROLLSCROL 2 */
+    article.tetet h1 {
+    	line-height: 1em;
+        padding-top: 1.8em;
+
+    }
+    article.payuh a {
+    	padding: 0.8em;
+		font-size: 90%;
+		margin: 7.3em 0 5.45em 5em;
+    }
+    /* ROCKET */
+    article.centul p {
+    	margin-top: 0;
+    }
+    /* Double Side */
+    aside p, article.sided p {
+    	font-size: 130%;
+    }
+    /* 3 Article */
+    .articles section {
+		float: left;
+		width: 48%;
+		margin-right: 2%;
+		text-align: center;
+	}
+	.articles section.ety {
+		width: 98%;
+	}
+	.articles section.ety img {
+		width: 40%;
+	}
+}
+
+@media screen and (min-width: 774px) and (max-width: 978px) {
+	/* 4 Atribute */
+    section.tie {
+    	width: 50%;
+    }
+    section.tie img {
+        width: 85%;
+        margin: 10%;
+        margin-left: 7%;
+        margin-bottom: 0;
+    }
+    section.ieu {
+    	margin-bottom: 3%;
+    }
+    article.th-le a.bot {
+	    display: none;
+    }
+}
+
+
+
+@media screen and (min-width: 610px) and (max-width: 773px) {
+	/* ROLLSCROL */
+    article.tete h1 {
+    	line-height: 0;
+        margin-top: 0.6em;
+    }
+    article.payu a {
+    	padding: 0.8em;
+		font-size: 90%;
+		margin: 7.3em 0 5.45em 5em;
+    }
+    /* ROLLSCROL 2 */
+    article.tetet h1 {
+    	line-height: 0;
+        margin-top: 0.6em;
+    }
+    article.payuh a {
+    	padding: 0.8em;
+		font-size: 90%;
+		margin: 7.3em 0 5.45em 5em;
+    }
+}
+
+@media screen and (min-width: 582px) and (max-width: 773px) {
+	/* PLx Rolling */
+	.bcbc h1 {
+		font-size: 200%;
+	}
+	.kaeding {
+		/*background: #fff;*/
+		text-align: center;
+		padding: 9em 0 7em 0;
+	}
+	.kede {
+		/*background: #ccc;*/
+	}
+	.mele {
+		/*background: red;*/
+		width: 48%;
+		margin-left: 1%;
+	}
+	.kakir {
+		width: 98%;
+		margin-left: 0.5%;
+	}
+	.kakir section.domo img {
+		width: 50%;
+		height: 100%;
+		max-height: 15em;
+	}
+	/* Style LOGO */
+	.lo-go {
+        /*background-color: yellow;*/
+	}
+	/* Text LOGO */
+    .named-lo-go {
+    	/*background-color: darkgreen;*/
+    	margin: 1em 0 1em 0;
+    }
+    .named-lo-go h1 {
+    	margin: 0;
+    }
+    /* UL Text lo-go */
+    .spame-lo-go {
+    	/*background-color: red;*/
+    	float: left;
+    	margin: 0;
+    }
+    .spame-lo-go ul h3 {
+    	margin-top: 0.5em;
+    }
+    .spame-lo-go ul li a {
+    	padding: 0;
+    	margin: 0 0.2em;
+    }
+    /* Next Bg */
+	.bg-img {
+		display: none;
+	}
+    /* ROLLSCROL */
+    article.tete h1 {
+    	line-height: 1em;
+    	padding-top: 1.1em;
+	    padding-bottom: 0.5em;
+    }
+    article.payu a {
+    	padding: 0.5em;
+		font-size: 90%;
+		margin: 8em 0 5.45em 2em;
+    }
+    /* GRADIENT */
+    .optor {
+    	width: 100%;
+        float: none;
+    }
+    section.lleefftt {
+    	width: 100%;
+    	float: none;
+    	margin: 0;
+    }
+    article.lleefftt-gbr {
+    	margin: 0;
+    }
+    .clie {
+    	width: 100%;
+    }
+    section.clie-pr {
+    	margin-top: 2em;
+    	margin-bottom: 2em;
+    }
+    /* THREE ARTICLE */
+    article.th-le {
+    	width: 100%;
+    	float: none;
+    	padding: 0;
+    }
+    article.th-le p {
+    	margin-right: 2%;
+    }
+    article.th-le p.bokong {
+        margin-bottom: 2em;
+    }
+    .linstarto {
+        display: none; 
+    }
+    /* 4 Atribute */
+    section.tie {
+    	width: 50%;
+    }
+    section.tie img {
+        width: 85%;
+        margin: 10%;
+        margin-left: 7%;
+        margin-bottom: 0;
+    }
+    section.ieu {
+    	margin-bottom: 3%;
+    }
+    /* Atribute Content */
+    .tricontent {
+    	display: none;
+    }
+    /* ROLLSCROLL 2 */
+    article.tetet h1 {
+    	line-height: 1em;
+    	padding-top: 1.1em;
+	    padding-bottom: 0.5em;
+    }
+    article.payuh a {
+    	padding: 0.5em;
+		font-size: 90%;
+		margin: 8em 0 5.45em 2em;
+    }
+    /* Gallery */
+    .glr {
+    	display: none;
+    }
+    /* Body Slider */
+    .suew {
+    	display: none;
+    }
+    section.cengam {
+    	width: 100%;
+    	/*background: #ccc;*/
+    }
+    section.cengam img {
+    	margin-left: 30%;
+    	float: none;
+    }
+    article.centul {
+    	width: 100%;
+    	/*background: #ddd;*/
+    	float: none;
+    }
+    article.centul p {
+    	font-size: 110%;
+        margin: 0;
+        margin-left: 0.5em;
+    }
+    /* Paragraf */
+    .baca h3 {
+    	font-size: 120%;
+    }
+    /* Double Aside */
+    .side-first {
+    	float: none;
+    	/*background: #ccc;*/
+    }
+    .side-utamatas {
+        margin-top: -2em;
+    }
+    .side-ilang {
+    	display: none;
+    }
+    .side-border {
+    	margin-top: -0.8em;
+    }
+    article.sided {
+    	width: 80%;
+    	float: none;
+    }
+    aside {
+    	float: none;
+    	width: 80%;
+    	margin: 0;
+    	margin-left: 10%;
+    	/*background: #fff;*/
+    }
+    aside p, article.sided p {
+    	font-size: 120%;
+    }
+    /* 3 Article */
+    .articles section {
+    	float: none;
+    	width: 98.428571428%;
+    	margin-right: 2.857142857%;
+    	/*background: #ccc;*/
+    }
+    .articles section h2 {
+    	/*background: #Fff;*/
+    }
+    .articles section p {
+    	/*background: red;*/
+    }
+    .articles section a {
+    	/*background: #000;*/
+    	float: none;
+    }
+}
+
+/* Understand */
+@media screen and (min-width: 719px) and (max-width: 773px) {
+    /* Text LOGO */
+    .named-lo-go {
+    	margin: 2.8em 0 1em 0;
+    }
+    /* UL Text lo-go */
+    .spame-lo-go {
+    	/*background-color: blue;*/
+    	float: left;
+    	margin: 0;
+    	margin-top: 2.6em;
+    }
+    .spame-lo-go ul h3 {
+    	margin-top: 0.5em;
+    }
+    .spame-lo-go ul li a {
+    	padding: 0;
+    	margin: 0 0.2em;
+    }
+}
